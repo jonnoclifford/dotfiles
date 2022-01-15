@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jma.clifford@gmail.com
+	name = Jonno Clifford
